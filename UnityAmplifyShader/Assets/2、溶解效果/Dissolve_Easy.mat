@@ -40,7 +40,8 @@ Material:
     m_Floats:
     - _ChangeAmount: 0
     - _Cutoff: 0.5
-    - _EdgeWidth: 0.09
+    - _EdgeIntensity: 5
+    - _EdgeWidth: 0.08
     - __dirty: 0
     m_Colors:
     - _Color0: {r: 1.1486983, g: 0.16654395, b: 0, a: 0}
